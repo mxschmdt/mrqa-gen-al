@@ -1,0 +1,11 @@
+torch==2.2.2
+tensorboard==2.17.1
+transformers==4.44.2
+accelerate==0.31.0
+datasets==2.21.0
+opendelta==0.3.2
+comet_ml==3.45.0
+nltk==3.8.1
+numpy==1.26.4
+psutil==6.0.0
+jsonlines==4.0.0
